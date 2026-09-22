@@ -1,6 +1,7 @@
-Flask
-gunicorn
+streamlit
 torch
 torchvision
 Pillow
 numpy
+pandas
+scikit-learn
